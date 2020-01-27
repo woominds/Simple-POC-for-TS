@@ -1,0 +1,1 @@
+# Simple POC for Typescript, typedi, mailgun
